@@ -1,5 +1,5 @@
 ## Hello! 🎸
-Hi, I'm Henry, a passionate full-stack developer dedicated to crafting robust web applications and solving real-life problems. Committed to delivering efficient, user-centric solutions.
+Hi, I'm Henry, a full-stack developer dedicated to crafting robust web applications and solving real-life problems. Committed to delivering efficient, user-centric solutions.
 I'm currently open for jobs so you can reach me trough [WhatsApp](https://wa.me/5511954599091), [Email](mailto:henry.emiliano@hotmail.com), and [LinkedIn](https://www.linkedin.com/in/henry-emiliano).
 
 
