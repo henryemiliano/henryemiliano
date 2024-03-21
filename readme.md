@@ -31,7 +31,7 @@ back-end:
 ![Sequelize](https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
+
 
 <!--  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=henryemiliano&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&line_height=24)  -->
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henryemiliano&theme=onedark&layout=compact&langs_count=8&card_width=260)
